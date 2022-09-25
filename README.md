@@ -1,17 +1,21 @@
 # Jlyfshhh's Homelab "loki"
-Why is your homelab named loki? Because its always acting up and causing issues.
+Why is your homelab named loki? **Because its always acting up and causing issues.**
 
 ## Overview
 
 Project status: **ALWAYS IN PROGRESS...**
 
-I am always tweaking things and findind cool new stuff to check out, so this changes weekly.
-More information on what I am currently working on can be found in [the roadmap](#roadmap) below.
+I am always tweaking things and finding cool new stuff to check out, so this changes often.
+More information on what I am currently working on (and what I plan to in the future) can be found in features section below. Just look for the 🚧
 
 ### Hardware
 
 ![Hardware](https://user-images.githubusercontent.com/57607562/192163044-b5e2a877-730e-480f-b086-0a09227a49eb.jpg)
 
+- Mini Rack
+    - 10 inch
+    - 9u
+- 12-port Patch Panel
 - Synology DS1520+: `loki`
     - CPU: `Intel Celeron J4125 Quad-Core @ 2.0GHz`
     - RAM: `8GB`
@@ -20,6 +24,12 @@ More information on what I am currently working on can be found in [the roadmap]
 - Raspberry Pi 4: `OctoPi`
 - Raspberry Pi 3B+
 - Firewalla Gold
+    - Router mode
+    - Firewall
+    - IDS/IPS
+    - VPN server & client
+- Firewalla Wi-Fi SD
+    - 5G backup failover
 - Mac mini
     - CPU: `Apple M1`
     - RAM: `16GB`
@@ -27,7 +37,8 @@ More information on what I am currently working on can be found in [the roadmap]
 - Netgear `GS116` switch:
     - Ports: `16`
     - Speed: `1000Mbps`
-
+- eero 6 Pro, 3 x eero Pro
+    - Bridge mode
 - Various hubs (Ikea Tradfri, Phillips Hue, etc.)
 
 ### Features
@@ -67,11 +78,26 @@ Screenshots:
     <tr>
         <td><img width="32" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></td>
         <td><a href="https://www.docker.com">Docker</a></td>
-        <td>Most service deployed using Docker Compose</td>
+        <td>Most services deployed using Docker Compose</td>
     </tr>
     <tr>
         <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/jellyfin.png"></td>
-        <td><a href="https://www.docker.com">Jellyfin</a></td>
+        <td><a href="https://jellyfin.org">Jellyfin</a></td>
         <td>Self-hosted media server</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nginxproxymanager.png"></td>
+        <td><a href="https://nginxproxymanager.com">NGINX Proxy Manager</a></td>
+        <td>Reverse proxy with NGINX</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/radarr.png"></td>
+        <td><a href="https://radarr.video">Radarr</a></td>
+        <td>Automated movie downloading</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/sonarr.png"></td>
+        <td><a href="https://sonarr.tv">Sonarr</a></td>
+        <td>Automated TV show downloading</td>
     </tr>
 </table>
