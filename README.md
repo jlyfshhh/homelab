@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/57607562/192167195-06a1f4ad-1bf3-4dd5-b7fb-fa4f561c7420.png">
+  <img width="460" src="https://user-images.githubusercontent.com/57607562/192167195-06a1f4ad-1bf3-4dd5-b7fb-fa4f561c7420.png">
 </p>
 
 # Jlyfshhh's Homelab "loki"
