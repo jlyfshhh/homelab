@@ -1,4 +1,4 @@
-<img width="256" src=https://user-images.githubusercontent.com/57607562/192167195-06a1f4ad-1bf3-4dd5-b7fb-fa4f561c7420.png>
+<img width="256" src=https://user-images.githubusercontent.com/57607562/192167195-06a1f4ad-1bf3-4dd5-b7fb-fa4f561c7420.png class="center">
 
 # Jlyfshhh's Homelab "loki"
 Why is your homelab named loki? **Because its always acting up and causing issues.**
