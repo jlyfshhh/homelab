@@ -61,8 +61,8 @@ More information on what I am currently working on (and what I plan to in the fu
 
 Screenshots:
 
+| Homepage powered by [Homarr](https://github.com/toboshii/)                                  |
 | [![][homepage-demo]][homepage-demo]                                                         |
-| Homepage with Ingress discovery powered by [Hajimari](https://github.com/toboshii/hajimari) |
 
 [homepage-demo]: https://user-images.githubusercontent.com/57607562/192164100-bf46b059-b41b-4fb3-9dd5-cdeb9af932d2.png
 
