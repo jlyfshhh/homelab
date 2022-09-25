@@ -10,8 +10,7 @@ More information on what I am currently working on can be found in [the roadmap]
 
 ### Hardware
 
-![Hardware](![IMG_0527](https://user-images.githubusercontent.com/57607562/192163044-b5e2a877-730e-480f-b086-0a09227a49eb.jpg)
-)
+![Hardware](https://user-images.githubusercontent.com/57607562/192163044-b5e2a877-730e-480f-b086-0a09227a49eb.jpg)
 
 - Synology DS1520+: `loki`
     - CPU: `Intel Celeron J4125 Quad-Core @ 2.0GHz`
@@ -71,7 +70,7 @@ Screenshots:
         <td>Most service deployed using Docker Compose</td>
     </tr>
     <tr>
-        <td><img width="32" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></td>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/jellyfin.png"></td>
         <td><a href="https://www.docker.com">Jellyfin</a></td>
         <td>Self-hosted media server</td>
     </tr>
