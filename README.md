@@ -59,12 +59,16 @@ More information on what I am currently working on (and what I plan to in the fu
 - [ ] Expose services to the internet securely with [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) 🚧
 - [ ] Single sign-on 🚧
 
-Screenshots:
+| Screenshots:                                                                                |
+| :--:                                                                                        |
+| Homepage powered by [Homarr](https://homarr.vercel.app).                                    |
+| ![][Homarr]                                                                                 |
+| Server monitoring powered by [Dash.](https://github.com/MauriceNino/dashdot)                |
+| ![][Dash.]                                                                                  |
 
-| Homepage powered by [Homarr](https://github.com/toboshii/)                                  |
-| [![][homepage-demo]][homepage-demo]                                                         |
+[Homarr]: https://user-images.githubusercontent.com/57607562/192171262-d3d40ab5-5ef6-475f-8da0-f62ab46dc9b8.png
+[Dash.]: https://user-images.githubusercontent.com/57607562/192172538-3da01eb0-394f-4fbb-ba51-bc5b2cc997a5.png
 
-[homepage-demo]: https://user-images.githubusercontent.com/57607562/192164100-bf46b059-b41b-4fb3-9dd5-cdeb9af932d2.png
 
 ### Tech stack
 
