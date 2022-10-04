@@ -81,7 +81,7 @@ More information on what I am currently working on (and what I plan to in the fu
     <tr>
         <td><img width="32" src="https://avatars.githubusercontent.com/u/314135?s=200&v=4"></td>
         <td><a href="https://www.cloudflare.com">Cloudflare</a></td>
-        <td>DNS</td>
+        <td>Domain hosting and DNS</td>
     </tr>
     <tr>
         <td><img width="32" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></td>
@@ -107,5 +107,25 @@ More information on what I am currently working on (and what I plan to in the fu
         <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/sonarr.png"></td>
         <td><a href="https://sonarr.tv">Sonarr</a></td>
         <td>Automated TV show downloading</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nzbget.png"></td>
+        <td><a href="https://nzbget.net">NZBGet</a></td>
+        <td>Usenet nzb downloader</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/bazarr.png"></td>
+        <td><a href="https://www.bazarr.media">Bazarr</a></td>
+        <td>Automated subtitle downloading</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/prowlarr.png"></td>
+        <td><a href="https://github.com/Prowlarr/Prowlarr">Prowlarr</a></td>
+        <td>Usenet indexer manager</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/jellyseerr.png"></td>
+        <td><a href="https://github.com/Fallenbagel/jellyseerr">Jellyseerr</a></td>
+        <td>Media requests/td>
     </tr>
 </table>
