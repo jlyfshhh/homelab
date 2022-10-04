@@ -1,0 +1,17 @@
+services:
+
+  app:
+    container_name: npm
+    image: jc21/nginx-proxy-manager:latest
+    restart: unless-stopped
+    ports:
+      - 8888:80
+      - 8181:81
+      - 4444:443
+    volumes:
+      - /volume1/docker/npm/data/data:/data
+      - /volume1/docker/npm/data/letsencrypt:/etc/letsencrypt
+    labels:
+      - org.hotio.pullio.update=true
+      - org.hotio.pullio.notify=true
+      - org.hotio.pullio.discord.webhook=*****
