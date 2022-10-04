@@ -1,0 +1,16 @@
+services:
+
+  homarr:
+    image: ghcr.io/ajnart/homarr:latest
+    container_name: homarr
+    restart: unless-stopped
+    volumes:
+      - /volume1/docker/homarr/data:/app/data/configs
+      - /volume1/docker/homarr/data:/app/public/icons
+      - /var/run/docker.sock:/var/run/docker.sock
+    ports:
+      - 7575:7575
+    labels:
+      - org.hotio.pullio.update=true
+      - org.hotio.pullio.notify=true
+      - org.hotio.pullio.discord.webhook=*****
