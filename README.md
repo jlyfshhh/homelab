@@ -126,6 +126,13 @@ More information on what I am currently working on (and what I plan to in the fu
     <tr>
         <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/jellyseerr.png"></td>
         <td><a href="https://github.com/Fallenbagel/jellyseerr">Jellyseerr</a></td>
-        <td>Media requests/td>
+        <td>Media requests</td>
     </tr>
 </table>
+
+### Network Diagram
+
+Still working on this. (It will get better I promise...😬)
+
+![Screen Shot 2022-10-12 at 11 38 25 AM](https://user-images.githubusercontent.com/57607562/195468049-e852d9f1-4e44-42a5-8ef8-3c02eec92b9d.png)
+
