@@ -1,3 +1,7 @@
+layout: page
+title: My page
+hide_hero: true
+
 ## Overview
 
 Project status: **ALWAYS IN PROGRESS...**
