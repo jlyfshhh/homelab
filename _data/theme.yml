@@ -1,1 +1,6 @@
 skin: sea
+
+google_fonts:
+  - name: "Fira Sans"
+    weights: "400,400i,600,600i"
+  - name: "Fira Sans Condensed"
