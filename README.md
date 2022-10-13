@@ -135,5 +135,5 @@ More information on what I am currently working on (and what I plan to in the fu
 
 Still working on this. (It will get better I promise...😬)
 
-![Screen Shot 2022-10-12 at 11 38 25 AM](https://user-images.githubusercontent.com/57607562/195468049-e852d9f1-4e44-42a5-8ef8-3c02eec92b9d.png)
+<img width="887" alt="Screenshot 2022-10-13 at 1 10 08 PM" src="https://user-images.githubusercontent.com/57607562/195661881-a1bca277-6328-420f-b73b-78ff849c2c28.png">
 
