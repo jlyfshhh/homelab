@@ -15,7 +15,7 @@ More information on what I am currently working on (and what I plan to in the fu
 
 ### Hardware
 
-![Hardware](https://user-images.githubusercontent.com/57607562/192163044-b5e2a877-730e-480f-b086-0a09227a49eb.jpg)
+<img width="887" src="https://user-images.githubusercontent.com/57607562/192163044-b5e2a877-730e-480f-b086-0a09227a49eb.jpg">
 
 - Mini Rack
     - 10 inch
