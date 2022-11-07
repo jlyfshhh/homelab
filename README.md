@@ -15,7 +15,7 @@ More information on what I am currently working on (and what I plan to in the fu
 
 ### Hardware
 
-<img width="887" src="https://user-images.githubusercontent.com/57607562/192163044-b5e2a877-730e-480f-b086-0a09227a49eb.jpg">
+<img width="500" src="https://user-images.githubusercontent.com/57607562/200206570-27736727-9a15-470f-8b32-d3d4a5e4bc76.jpg">
 
 - Mini Rack
     - 10 inch
@@ -48,17 +48,14 @@ More information on what I am currently working on (and what I plan to in the fu
 
 ### Features
 
-- [x] Self hosted applications: Jellyfin, NGINX, dash., homarr...
-- [x] Monitoring and alerting
-- [x] Automated offsite backups
-- [x] Automatically update docker applications
+- [x] Several Self hosted applications
+- [x] Monitoring and alerting on network activity and incoming threats
+- [x] Automated onsite and offsite (cloud) backups
+- [x] Automatically update docker applications with discord notifications
 - [x] docker-compose architecture, easy to add or remove features/components
-- [x] Services hosted on custom domain
+- [x] Services accessible remotely via Wireguard VPN
 - [x] Automated certificate management for HTTPs
-- [x] Automatically update DNS records for exposed services
-- [x] VPN for remote access without port forwarding
-- [ ] Expose services to the internet securely with [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) 🚧
-- [ ] Single sign-on 🚧
+- [x] Apps accessible via custom domain names
 
 | Screenshots:                                                                                |
 | :--:                                                                                        |
@@ -90,14 +87,14 @@ More information on what I am currently working on (and what I plan to in the fu
         <td>Most services deployed using Docker Compose</td>
     </tr>
     <tr>
-        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/jellyfin.png"></td>
-        <td><a href="https://jellyfin.org">Jellyfin</a></td>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/plex.png"></td>
+        <td><a href="https://www.plex.tv">Plex</a></td>
         <td>Self-hosted media server</td>
     </tr>
     <tr>
         <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nginxproxymanager.png"></td>
         <td><a href="https://nginxproxymanager.com">NGINX Proxy Manager</a></td>
-        <td>Reverse proxy with NGINX</td>
+        <td>Reverse proxy</td>
     </tr>
     <tr>
         <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/radarr.png"></td>
@@ -110,8 +107,8 @@ More information on what I am currently working on (and what I plan to in the fu
         <td>Automated TV show downloading</td>
     </tr>
     <tr>
-        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nzbget.png"></td>
-        <td><a href="https://nzbget.net">NZBGet</a></td>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/sabnzbd.png"></td>
+        <td><a href="https://sabnzbd.org">SABnzbd</a></td>
         <td>Usenet nzb downloader</td>
     </tr>
     <tr>
@@ -125,9 +122,9 @@ More information on what I am currently working on (and what I plan to in the fu
         <td>Usenet indexer manager</td>
     </tr>
     <tr>
-        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/jellyseerr.png"></td>
-        <td><a href="https://github.com/Fallenbagel/jellyseerr">Jellyseerr</a></td>
-        <td>Media requests</td>
+        <td><img width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/overseerr.png"></td>
+        <td><a href="https://overseerr.dev">Overseerr</a></td>
+        <td>Media request and issue management</td>
     </tr>
 </table>
 
