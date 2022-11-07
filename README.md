@@ -1,13 +1,5 @@
 ## Overview
 
-<a href="https://bulma.io">
-  <img
-    src="https://bulma.io/images/made-with-bulma.png"
-    alt="Made with Bulma"
-    width="128"
-    height="24">
-</a>
-
 Project status: **ALWAYS IN PROGRESS...**
 
 I am always tweaking things and finding cool new stuff to check out, so this changes often.
@@ -21,7 +13,7 @@ More information on what I am currently working on (and what I plan to in the fu
     - 10 inch
     - 9u
 - 12-port Patch Panel
-- Synology DS1520+: `loki`
+- Synology DS1520+: `phoenix`
     - CPU: `Intel Celeron J4125 Quad-Core @ 2.0GHz`
     - RAM: `8GB`
     - STORAGE: `56TB (5 x WD 14TB, SHR2)`
