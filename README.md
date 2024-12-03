@@ -1,4 +1,4 @@
-# Jlyfshhh's Homelab
+# jlyfshhh's Homelab
 
 **What is a homelab?**
 >
@@ -14,10 +14,7 @@
 
 <table>
   <td>
-    <img width="600" src="https://github.com/jlyfshhh/homelab/assets/57607562/1301213a-949a-4b74-8001-8a1b72e95f16">
-  </td>
-  <td>
-    <img width="600" src="https://github.com/jlyfshhh/homelab/assets/57607562/fe38fc1e-50b1-458e-aa00-f832499fcba2">
+    <img width="600" src="https://github.com/user-attachments/assets/2618aab2-0def-44b1-b48d-fc83c33f8209">
   </td>
 </table>
 
@@ -31,8 +28,15 @@
     - RAM: `20GB DDR4`
     - SSD: `1TB M.2 NVMe`
     - Cache `1TB M.2 NVMe`
+    - Storage: `20TB`
 - 3 x Raspberry `Pi 5`
 - Raspberry `Pi 4`
+- UGREEN NASyncDXP8800 Plus
+    - OS: `Unraid`
+    - CPU: `Intel i5 1235u`
+    - RAM: `64GB DDR5`
+    - Cache: `2x1TB m,2 NVMe`
+    - Storage: `114TB`
       
 ### Features
 
